@@ -1,7 +1,7 @@
 {
 	"name": "nativescript-c2x-android",
 	"version": "1.0.0",
-	"description": "Your awesome NativeScript plugin.",
+	"description": "Exclusive plugin for android (CashJar)",
 	"main": "c2x-android",
 	"typings": "index.d.ts",
 	"nativescript": {
@@ -34,8 +34,8 @@
 		"iOS"
 	],
 	"author": {
-		"name": "Your Name",
-		"email": "youremail@yourdomain.com"
+		"name": "Jeanne Boon",
+		"email": "jeanne@cashjar.com"
 	},
 	"bugs": {
 		"url": "https://github.com/NiceServicePay/nativescript-c2x-android/issues"
